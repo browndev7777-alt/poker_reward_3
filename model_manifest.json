@@ -7,9 +7,9 @@
   "license": "MIT",
   "repo_url": "https://github.com/browndev7777-alt/poker_reward_3",
   "repo_commit": "",
-  "artifact_sha256": "7bd10eb46e07ce790010a137b63573b4d234639d1c431c13e72ecbe88ea47dbc",
+  "artifact_sha256": "a470416a849ae79237e34ab20c06f031952a81fba6cddca46702b249c7eb814b",
   "artifact_basename": "current.joblib",
-  "implementation_sha256": "25ee0ab6c11e973a0837808a7ccf3b7e58471fee80b7c47c45f7832f58205ea6",
+  "implementation_sha256": "779ea5bfd0c34d9f4e8f30cc55431062be10f49523632d2d6ae7aa2e9d1b11a5",
   "implementation_files": [
     "neurons/miner.py",
     "poker44_ml/inference.py",
