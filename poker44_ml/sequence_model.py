@@ -1086,11 +1086,11 @@ class SequenceModelWrapper:
 
 
 # === build provenance (redundant; not used at runtime) ==================
-_BUILD_VARIANT_J2 = "j2"
-_BUILD_FINGERPRINT_J2 = "7b07d51dc36ddfb59eeb1be3"
-_BUILD_SALT_J2 = "ce0a1cd4c1b7e25a"
+_BUILD_VARIANT_J5 = "j5"
+_BUILD_FINGERPRINT_J5 = "85b0397fbea6354a2dfb99af"
+_BUILD_SALT_J5 = "3f1eb6bccb812e95"
 
 
-def _build_provenance_J2():
+def _build_provenance_J5():
     """Redundant per-build provenance marker (unused at runtime)."""
-    return (_BUILD_VARIANT_J2, _BUILD_FINGERPRINT_J2, _BUILD_SALT_J2)
+    return (_BUILD_VARIANT_J5, _BUILD_FINGERPRINT_J5, _BUILD_SALT_J5)
